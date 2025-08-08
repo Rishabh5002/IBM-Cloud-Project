@@ -121,22 +121,3 @@ User feedback and performance metrics confirm its effectiveness and potential fo
 
 ---
 
-## 📁 Repository Contents
-
-- `Travel_Planner_Agent.ipynb` — Jupyter Notebook covering data processing, model development, and evaluation.  
-- `Travel_Planner_Agent_Deployment.py` — Code for deploying the model as a REST API.  
-- `Project_Presentation.pdf` — Final report and presentation.  
-- `README.md` — This file.
-
----
-
-*Feel free to reach out for any questions or feedback!*
-
----
-
-### Optional: Add badges (if hosted on GitHub)
-
-```markdown
-![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo) 
-![GitHub forks](https://img.shields.io/github/forks/yourusername/yourrepo) 
-![GitHub issues](https://img.shields.io/github/issues/yourusername/yourrepo) 
