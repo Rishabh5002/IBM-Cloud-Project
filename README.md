@@ -20,9 +20,9 @@ The project aims to build an intelligent assistant that simplifies and personali
 
 ## 👨‍💻 Intern Details
 
-**Name:** *[Your Name]*  
-**Institute:** *[Your Institute]*  
-**Duration:** *[Internship Duration]*  
+**Name:** *Rishabh Amuly*  
+**Institute:** *Jagannath University, Jaipur*  
+**Duration:** *15th July 2025 to 7th August 2025*  
 
 ---
 
