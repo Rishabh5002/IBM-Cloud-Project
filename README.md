@@ -15,7 +15,6 @@ The project aims to build an intelligent assistant that simplifies and personali
 - [Technology Stack](#-technology-stack)  
 - [Project Workflow](#-project-workflow)  
 - [Results](#-results)  
-- [Repository Contents](#-repository-contents)  
 
 ---
 
